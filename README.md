@@ -7,7 +7,7 @@ This repo contains my Kaggle **House Prices: Advanced Regression Techniques** so
 
 ## Files
 - `Kaggle_House_Price_Prediction.ipynb` → Full pipeline notebook  
-- `submission_stack.csv` → Final stacked submission  
+- `submission_stack3.csv` → Final stacked submission  
 
 ## Results
 Stacking with Ridge meta-model outperformed blending, achieving **Top 100** on Kaggle LB.
